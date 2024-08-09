@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Kaven Muraleitharan</h1>
-<h3 align="center">A CS and AI ML Student from Carleton University</h3>
+<h3 align="center">A CS and AIML Student from Carleton University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavenmuralei&label=Profile%20views&color=0e75b6&style=flat" alt="kavenmuralei" /> </p>
 
