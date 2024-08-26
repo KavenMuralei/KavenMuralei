@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavenmuralei&label=Profile%20views&color=0e75b6&style=flat" alt="kavenmuralei" /> </p>
 
-- 🔭 I’m currently working on **GoodNewsAI, an AI news website**
+- 🔭 I’m currently working on **GoodNewsAI**
 
 - 🌱 I’m currently learning **the AWS Cloud**
 
